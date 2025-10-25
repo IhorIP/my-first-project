@@ -1,26 +1,95 @@
+/* #region common */
+
+/* font-family: "Montserrat", sans-serif; */
+
 ul {
     list-style-type: none;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    color: inherit;
 }
 
-p {
-    color: rgb(64, 64, 64);
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #111;
 }
 
-.color-accent {
-    color: red;
+.text-italic {
+    font-style: italic;
 }
 
-a:hover {
-    color: red;
-    font-size: 18px;
+/* #endregion common */
+
+/* #region header> */
+
+ .page-header {
+
+ }
+
+ .page-nav {
+
+ }
+
+ .main-logo {
+     font-weight: 700;
+     font-size: 18px;
+     line-height: 1.1;
+     letter-spacing: -0.03em;
+ }
+
+ .nav-list {
+
+ }
+
+ .nav-list-item {
+
+ }
+
+ .nav-link {
+     font-weight: 500;
+     font-size: 14px;
+     line-height: 1.14;
+     letter-spacing: -0.02em;
+ }
+
+ .nav-link:hover,
+ .nav-link:focus {
+     color: #FD9222;
+ }
+
+
+ .socials-list {
+
+ }
+
+ .socials-link {
+
+ }
+
+/* #endregion header */
+
+/* #region hero */
+
+.section-hero {
+
 }
 
-a:focus {
-    color: red;
-    font-size: 18px;
+.title-hero {
+
 }
+
+.hero-list {
+
+}
+
+.hero-item {
+
+}
+
+.scroll-to-down {
+    
+}
+
+/* #endregion hero */
