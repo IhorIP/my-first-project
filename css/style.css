@@ -22,74 +22,144 @@ body {
 
 /* #endregion common */
 
-/* #region header> */
+/* #region header */
 
- .page-header {
+.page-header {}
 
- }
+.page-nav {}
 
- .page-nav {
+.main-logo {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+}
 
- }
+.nav-list {}
 
- .main-logo {
-     font-weight: 700;
-     font-size: 18px;
-     line-height: 1.1;
-     letter-spacing: -0.03em;
- }
+.nav-list-item {}
 
- .nav-list {
+.nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
 
- }
-
- .nav-list-item {
-
- }
-
- .nav-link {
-     font-weight: 500;
-     font-size: 14px;
-     line-height: 1.14;
-     letter-spacing: -0.02em;
- }
-
- .nav-link:hover,
- .nav-link:focus {
-     color: #FD9222;
- }
+.nav-link:hover,
+.nav-link:focus {
+    color: #FD9222;
+}
 
 
- .socials-list {
+.socials-list {}
 
- }
-
- .socials-link {
-
- }
+.socials-link {}
 
 /* #endregion header */
 
 /* #region hero */
 
-.section-hero {
+.section-hero {}
 
-}
+.title-hero {}
 
-.title-hero {
+.hero-list {}
 
-}
-
-.hero-list {
-
-}
-
-.hero-item {
-
-}
-
-.scroll-to-down {
-    
-}
+.scroll-to-down {}
 
 /* #endregion hero */
+
+/* #region benefits */
+
+.section-benefits {}
+
+.benefits-item {}
+
+.benefits-item-image {}
+
+.benefits-item-title {}
+
+.benefits-item-description {}
+
+/* #endregion benefits */
+
+/* #region sensation */
+
+.section-sensation {}
+
+.sensation-title {}
+
+.sensation-description {}
+
+.sensation-list {}
+
+.sensation-item {}
+
+.sensation-item-image {}
+
+.sensation-item-title {}
+
+/* #endregion sensation */
+
+/* #region made */
+
+.section-made {}
+
+.made-title {}
+
+.made-image {}
+
+.made-subtitle {}
+
+.made-list {}
+
+.made-list-item {}
+
+/* #endregion made */
+
+/* #region loved */
+
+.section-loved {}
+
+.loved-title {}
+
+.loved-list {}
+
+.loved-list-item {}
+
+.loved-list-image {}
+
+.loved-list-title {}
+
+.loved-list-description {}
+
+/* #endregion loved */
+
+/* #region footer */
+
+.page-footer {}
+
+.page-footer-text {}
+
+.footer-address {}
+
+.footer-address-title {}
+
+.footer-address-list {}
+
+.footer-address-item {}
+
+.footer-nav-list {}
+
+.footer-nav-item {}
+
+.footer-form {}
+
+.footer-form-input {}
+
+.footer-form-input {}
+
+.footer-form-button {}
+
+/* #endregion footer */
